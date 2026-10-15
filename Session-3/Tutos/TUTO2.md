@@ -1,4 +1,4 @@
-##Administrator Actions
+#Administrator Actions
 
 
 1. Dashboard:
